@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #D9D9D9;
+    
+}
+.nav-list{
+    display: flex;
+}
+header .conteiner{ 
+    display: flex;
+    justify-content: space-between;
+     max-width: 1180px;
+     width: 100%;
+     align-items: center;
+     height: 220px;
+     
+     
+}
+.avt{
+    margin: 0 38px;
+}
+header .active{
+    color: red;
+}
+ .center{
+    text-align: center;
+    margin-top: 160px;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.logo{
+    margin-top: 160px;
+    margin-left: 130px;
+}
+h4{
+    font-size: 32px;
+    display: flex;
+    
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+
+}
+.price{
+    margin: 0 180px;
+} 
+
+    
+.class{
+    display: flex;
+    justify-content: center;
+    max-width: 1440px;
+
+}
+footer .logo{
+    display: flex;
+    justify-content: center;
+    margin-left: 1127px;
+    color: #000000;
+
+}
+.contact{
+    height: 248px;
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    margin-top: 160px;
+    
+    
+}
+.imformation{
+    margin-left: 130px;
+
+    color: #000000;
+    
+}
+.left{
+    margin-left: 130px;
+}
+.youtube{
+    margin: 0 21px;
+}
+.instagram{
+    margin: 0 21px;
+}
